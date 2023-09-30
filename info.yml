@@ -1,0 +1,87 @@
+- name: Badges
+  date: "2018-10-26"
+  slug: badges
+  round: true
+  desc: >
+    Yes, you've seen this badges in many Open Source projects.
+    This sticker brings stability to your code.
+
+- name: Fail badges
+  date: "2018-10-26"
+  slug: fail_badges
+  round: true
+  desc: >
+    Sometimes everything goes wrong.
+
+- name: NaN die
+  date: "2018-10-26"
+  slug: dice
+  round: true
+  desc: >
+    When JS developers make a die, all sides are NaN.
+
+- name: Duck typing
+  date: "2018-12-20"
+  slug: duck
+  round: true
+  desc: >
+    If it walks like a duck and it quacks like a duck, then it can be a Python.
+
+- name: The Ministry of Silly Walks
+  date: "2018-10-26"
+  slug: silly_walk
+  round: true
+  desc: >
+    Yeah, it's Monty Python reference, you know.
+
+- name: The Holy Hand Grenade of Antioch
+  date: "2018-10-26"
+  slug: grenade
+  round: true
+  desc: >
+    Legendary The Holy Hand Grenade of Antioch from Monty Python flying circus
+    show. Below greande is Killer Rabbit.
+
+- name: Ventum
+  date: "2018-10-26"
+  slug: ventum
+  round: true
+  desc: >
+    Ventum is the latin word that means "wind". It's a symbol of freedom,
+    knowledge and cool stories.
+    ⇑ is the slavic wind rune.
+
+- name: Python first logo
+  date: "2018-10-26"
+  slug: python_old
+  round: true
+  desc: >
+    Let people around you think you incredibly old Python developer.
+
+- name: Python logo
+  date: "2018-10-26"
+  slug: python
+  round: true
+  desc: >
+    Show your Python to people.
+
+- name: pip
+  date: "2018-10-26"
+  slug: pip
+  round: true
+  desc: >
+    Package manager we deserve.
+
+- name: Gram
+  date: "2018-10-26"
+  slug: avatar
+  round: true
+  desc: >
+    It's me. Stick it on your laptop as mark of your Python code quality.
+
+- name: Кровь и питон!
+  date: "2018-10-26"
+  slug: blood_and_python
+  round: true
+  desc: >
+    It's Russian meme, never mind.
