@@ -8,7 +8,7 @@
 
 - name: Fail badges
   date: "2018-10-26"
-  slug: fail_badges
+  slug: fail-badges
   round: true
   desc: >
     Sometimes everything goes wrong.
@@ -29,7 +29,7 @@
 
 - name: The Ministry of Silly Walks
   date: "2018-10-26"
-  slug: silly_walk
+  slug: silly-walk
   round: true
   desc: >
     Yeah, it's Monty Python reference, you know.
@@ -53,7 +53,7 @@
 
 - name: Python first logo
   date: "2018-10-26"
-  slug: python_old
+  slug: python-old
   round: true
   desc: >
     Let people around you think you incredibly old Python developer.
@@ -81,7 +81,7 @@
 
 - name: Кровь и питон!
   date: "2018-10-26"
-  slug: blood_and_python
+  slug: blood-and-python
   round: true
   desc: >
     It's Russian meme, never mind.
