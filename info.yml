@@ -9,7 +9,7 @@
 - name: Not my type
   date: "2023-09-07"
   slug: not-my-type
-  round: false
+  round: true
   desc: >
     Limited edition stickers for participants of my Typing Hackathon.
 
