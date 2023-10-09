@@ -1,3 +1,74 @@
+- name: Lousy sticker
+  date: "2023-09-12"
+  slug: lousy-sticker
+  round: true
+  desc: >
+    Reward for people who gave tech talks at my hackathon.
+    It is designed to look lousy.
+
+- name: Not my type
+  date: "2023-09-07"
+  slug: not-my-type
+  round: false
+  desc: >
+    Limited edition stickers for participants of my Typing Hackathon.
+
+- name: OurPy
+  date: "2023-09-01"
+  slug: ourpy
+  round: true
+  desc: >
+    If mypy was a communist.
+
+- name: Patience
+  date: "2023-06-28"
+  slug: patience
+  round: false
+  desc: >
+    Mark of dedication for QA engineers.
+
+- name: Ship it!
+  date: "2023-06-28"
+  slug: ship-it
+  round: true
+  desc: >
+    When release is imminent.
+
+- name: TypeScript
+  date: "2023-09-03"
+  slug: typescript
+  round: false
+  desc: >
+    Do you remember jQuery?
+
+- name: Monad
+  date: "2020-01-23"
+  slug: monad
+  round: true
+  desc: >
+    That's simple!
+
+- name: Python-powered
+  date: "2020-01-23"
+  slug: python-powered
+  round: true
+  desc: >
+    This badge was present on the official Python website in 90s.
+
+- name: Generic hero
+  date: "2020-02-05"
+  slug: generic-hero
+  round: true
+  desc: >
+    A hero Go deserves.
+
+- name: pip
+  date: "2020-02-06"
+  slug: pip
+  round: true
+  desc: >
+    pip doesn't have logo, so I made one. A subtle nod to npm.
+
 - name: Badges
   date: "2018-10-26"
   slug: badges
