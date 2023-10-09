@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Stickers by @orsinium</title>
+    <title>Stickers by Gram</title>
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
       rel="stylesheet"
@@ -12,11 +12,11 @@
     />
 
     <style>
-      .card {
+      .sticker-card {
         border: none;
       }
 
-      .sticker {
+      .sticker-image {
         background-color: white;
       }
 
@@ -30,14 +30,48 @@
   <body>
     <div class="container">
 
-      <h1>Stickers by @orsinium</h1>
-      <div class="row row-cols-1 row-cols-md-4 g-4">
+      <h1>Stickers by <a href="https://orsinium.dev/">Gram</a></h1>
+
+      <section class="row m-3">
+        <div class="col">
+          <div class="card h-100">
+            <div class="card-body">
+              Hi, I'm <a href="https://orsinium.dev/">Gram</a> and I like making stickers about IT.
+              Most of them I drew myself using <a href="https://inkscape.org/">Inkscape</a>
+              and then ordered from <a href="https://www.stickermule.com/">Sticker Mule</a>.
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100">
+            <div class="card-body">
+              Each design comes in a limited edition, 10 or 50 stickers in total,
+              depending on if I use <a href="https://www.stickermule.com/deals">a deal</a>
+              or order <a href="https://www.stickermule.com/samples">a sample</a>.
+              So, if you have one of these stickers, there are at most 49 people
+              in the whole world who have the same one as you.
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100">
+            <div class="card-body">
+              A few stickers are either inspired by work of others or outright
+              copy-paste. That's especially true for logos. I don't want to claim
+              work of others and I don't make any money or even fame from it.
+              I just want to make cool stickers. Please, don't sue me.
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <main class="row row-cols-1 row-cols-md-4 g-4">
         {% for item in items %}
           <article class="col">
-            <div class="card h-100">
+            <div class="card h-100 sticker-card">
               <img
                 src="pngs/{{ item['slug'] }}.png"
-                class="card-img-top sticker {% if item['round'] %}round-sticker{% endif %}">
+                class="card-img-top sticker-image {% if item['round'] %}round-sticker{% endif %}">
               <div class="card-body">
                 <h5 class="card-title">{{ item['name'] }}</h5>
                 <p class="card-text">{{ item['desc'] }}</p>
@@ -45,7 +79,7 @@
             </div>
           </article>
         {% endfor %}
-      </div>
+      </main>
 
     </div>
   </body>
