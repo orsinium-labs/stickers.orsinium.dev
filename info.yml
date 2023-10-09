@@ -51,7 +51,7 @@
 - name: Python-powered
   date: "2020-01-23"
   slug: python-powered
-  round: true
+  round: false
   desc: >
     This badge was present on the official Python website in 90s.
 
@@ -61,13 +61,6 @@
   round: true
   desc: >
     A hero Go deserves.
-
-- name: pip
-  date: "2020-02-06"
-  slug: pip
-  round: true
-  desc: >
-    pip doesn't have logo, so I made one. A subtle nod to npm.
 
 - name: Badges
   date: "2018-10-26"
@@ -137,7 +130,7 @@
     Show your Python to people.
 
 - name: pip
-  date: "2018-10-26"
+  date: "2020-02-06"
   slug: pip
   round: true
   desc: >
