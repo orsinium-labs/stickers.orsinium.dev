@@ -2,23 +2,23 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1016mm"
    height="1015.9999mm"
    viewBox="0 0 3600.0001 3599.9995"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="badges.svg"
    inkscape:export-filename="/home/gram/projects/other/stickers/3sticker/badges.png"
    inkscape:export-xdpi="753.48999"
-   inkscape:export-ydpi="753.48999">
+   inkscape:export-ydpi="753.48999"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
     <mask
@@ -204,8 +204,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.12374369"
-     inkscape:cx="-2289.8109"
-     inkscape:cy="1710.2615"
+     inkscape:cx="-4723.4732"
+     inkscape:cy="1713.2187"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -213,16 +213,17 @@
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="694"
+     inkscape:window-width="1712"
+     inkscape:window-height="860"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid3752"
@@ -237,7 +238,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -296,20 +296,22 @@
            id="text26"
            y="15"
            x="22"
-           style="fill:#010101;fill-opacity:0.3">build</text>
+           style="line-height:0%;fill:#010101;fill-opacity:0.3">build</text>
         <text
            id="text28"
            y="14"
-           x="22">build</text>
+           x="22"
+           style="line-height:0%">build</text>
         <text
            id="text30"
            y="15"
            x="58"
-           style="fill:#010101;fill-opacity:0.3">passing</text>
+           style="line-height:0%;fill:#010101;fill-opacity:0.3">passing</text>
         <text
            id="text32"
            y="14"
-           x="58">passing</text>
+           x="58"
+           style="line-height:0%">passing</text>
       </g>
     </g>
     <g
@@ -339,31 +341,37 @@
          id="g20-1"
          font-size="110">
         <text
-           style="fill:#010101;fill-opacity:0.3"
+           style="line-height:0%;fill:#010101;fill-opacity:0.3"
            id="text22"
            textLength="490"
-           transform="scale(0.1,0.1)"
+           transform="scale(0.1)"
            y="150"
-           x="305">coverage</text>
+           x="305"
+           lengthAdjust="spacing">coverage</text>
         <text
            id="text24"
            textLength="490"
-           transform="scale(0.1,0.1)"
+           transform="scale(0.1)"
            y="140"
-           x="305">coverage</text>
+           x="305"
+           lengthAdjust="spacing"
+           style="line-height:0%">coverage</text>
         <text
-           style="fill:#010101;fill-opacity:0.3"
+           style="line-height:0%;fill:#010101;fill-opacity:0.3"
            id="text26-2"
            textLength="250"
-           transform="scale(0.1,0.1)"
+           transform="scale(0.1)"
            y="150"
-           x="755">90%</text>
+           x="755"
+           lengthAdjust="spacing">90%</text>
         <text
            id="text28-7"
            textLength="250"
-           transform="scale(0.1,0.1)"
+           transform="scale(0.1)"
            y="140"
-           x="755">90%</text>
+           x="755"
+           lengthAdjust="spacing"
+           style="line-height:0%">90%</text>
       </g>
     </g>
     <g
@@ -393,31 +401,37 @@
          id="g20-8"
          font-size="110">
         <text
-           style="fill:#010101;fill-opacity:0.3"
+           style="line-height:0%;fill:#010101;fill-opacity:0.3"
            id="text22-7"
            textLength="590"
-           transform="scale(0.1,0.1)"
+           transform="scale(0.1)"
            y="150"
-           x="355">downloads</text>
+           x="355"
+           lengthAdjust="spacing">downloads</text>
         <text
            id="text24-9"
            textLength="590"
-           transform="scale(0.1,0.1)"
+           transform="scale(0.1)"
            y="140"
-           x="355">downloads</text>
+           x="355"
+           lengthAdjust="spacing"
+           style="line-height:0%">downloads</text>
         <text
-           style="fill:#010101;fill-opacity:0.3"
+           style="line-height:0%;fill:#010101;fill-opacity:0.3"
            id="text26-20"
            textLength="210"
-           transform="scale(0.1,0.1)"
+           transform="scale(0.1)"
            y="150"
-           x="835">30k</text>
+           x="835"
+           lengthAdjust="spacing">30k</text>
         <text
            id="text28-2"
            textLength="210"
-           transform="scale(0.1,0.1)"
+           transform="scale(0.1)"
            y="140"
-           x="835">30k</text>
+           x="835"
+           lengthAdjust="spacing"
+           style="line-height:0%">30k</text>
       </g>
     </g>
     <g
@@ -447,31 +461,37 @@
          id="g20-12"
          font-size="110">
         <text
-           style="fill:#010101;fill-opacity:0.3"
+           style="line-height:0%;fill:#010101;fill-opacity:0.3"
            id="text22-9"
            textLength="370"
-           transform="scale(0.1,0.1)"
+           transform="scale(0.1)"
            y="150"
-           x="245">license</text>
+           x="245"
+           lengthAdjust="spacing">license</text>
         <text
            id="text24-3"
            textLength="370"
-           transform="scale(0.1,0.1)"
+           transform="scale(0.1)"
            y="140"
-           x="245">license</text>
+           x="245"
+           lengthAdjust="spacing"
+           style="line-height:0%">license</text>
         <text
-           style="fill:#010101;fill-opacity:0.3"
+           style="line-height:0%;fill:#010101;fill-opacity:0.3"
            id="text26-1"
            textLength="210"
-           transform="scale(0.1,0.1)"
+           transform="scale(0.1)"
            y="150"
-           x="615">MIT</text>
+           x="615"
+           lengthAdjust="spacing">MIT</text>
         <text
            id="text28-9"
            textLength="210"
-           transform="scale(0.1,0.1)"
+           transform="scale(0.1)"
            y="140"
-           x="615">MIT</text>
+           x="615"
+           lengthAdjust="spacing"
+           style="line-height:0%">MIT</text>
       </g>
     </g>
     <g
@@ -501,31 +521,37 @@
          id="g20-2"
          font-size="110">
         <text
-           style="fill:#010101;fill-opacity:0.3"
+           style="line-height:0%;fill:#010101;fill-opacity:0.3"
            id="text22-0"
            textLength="270"
-           transform="scale(0.1,0.1)"
+           transform="scale(0.1)"
            y="150"
-           x="195">build</text>
+           x="195"
+           lengthAdjust="spacing">build</text>
         <text
            id="text24-6"
            textLength="270"
-           transform="scale(0.1,0.1)"
+           transform="scale(0.1)"
            y="140"
-           x="195">build</text>
+           x="195"
+           lengthAdjust="spacing"
+           style="line-height:0%">build</text>
         <text
-           style="fill:#010101;fill-opacity:0.3"
+           style="line-height:0%;fill:#010101;fill-opacity:0.3"
            id="text26-15"
            textLength="410"
-           transform="scale(0.1,0.1)"
+           transform="scale(0.1)"
            y="150"
-           x="615">passing</text>
+           x="615"
+           lengthAdjust="spacing">passing</text>
         <text
            id="text28-5"
            textLength="410"
-           transform="scale(0.1,0.1)"
+           transform="scale(0.1)"
            y="140"
-           x="615">passing</text>
+           x="615"
+           lengthAdjust="spacing"
+           style="line-height:0%">passing</text>
       </g>
     </g>
     <g
@@ -555,45 +581,50 @@
          id="g20-4"
          font-size="110">
         <text
-           style="fill:#010101;fill-opacity:0.3"
+           style="line-height:0%;fill:#010101;fill-opacity:0.3"
            id="text22-4"
            textLength="390"
-           transform="scale(0.1,0.1)"
+           transform="scale(0.1)"
            y="150"
-           x="255">uptime</text>
+           x="255"
+           lengthAdjust="spacing">uptime</text>
         <text
            id="text24-30"
            textLength="390"
-           transform="scale(0.1,0.1)"
+           transform="scale(0.1)"
            y="140"
-           x="255">uptime</text>
+           x="255"
+           lengthAdjust="spacing"
+           style="line-height:0%">uptime</text>
         <text
-           style="fill:#010101;fill-opacity:0.3"
+           style="line-height:0%;fill:#010101;fill-opacity:0.3"
            id="text26-7"
            textLength="330"
-           transform="scale(0.1,0.1)"
+           transform="scale(0.1)"
            y="150"
-           x="695">100%</text>
+           x="695"
+           lengthAdjust="spacing">100%</text>
         <text
            id="text28-8"
            textLength="330"
-           transform="scale(0.1,0.1)"
+           transform="scale(0.1)"
            y="140"
-           x="695">100%</text>
+           x="695"
+           lengthAdjust="spacing"
+           style="line-height:0%">100%</text>
       </g>
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.49024963px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="53.204079"
        y="1646.0496"
        id="text4146"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.54229478,0.8401883,-0.8401883,0.54229478,0,0)"><tspan
+       transform="rotate(57.160009)"><tspan
          sodipodi:role="line"
          id="tspan4148"
          x="53.204079"
          y="1646.0496"
-         style="font-size:156.2364502px;fill:#808080">@orsinium</tspan></text>
+         style="font-size:156.236px;line-height:1.25;fill:#808080">@orsinium</tspan></text>
   </g>
 </svg>

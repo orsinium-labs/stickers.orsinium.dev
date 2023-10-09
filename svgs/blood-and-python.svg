@@ -2,24 +2,24 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1016mm"
    height="1016mm"
    viewBox="0 0 3600.0001 3599.9998"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="blood_and_python.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="blood-and-python.svg"
    inkscape:export-filename="/home/gram/projects/other/stickers/3sticker/blood_and_python.png"
    inkscape:export-xdpi="152.83"
-   inkscape:export-ydpi="152.83">
+   inkscape:export-ydpi="152.83"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -30,25 +30,26 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.12374369"
-     inkscape:cx="2060.2513"
-     inkscape:cy="1520.7059"
+     inkscape:cx="-375.77674"
+     inkscape:cy="1519.2694"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="694"
+     inkscape:window-width="1712"
+     inkscape:window-height="860"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:snap-bbox-midpoints="false"
      inkscape:snap-global="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid3347"
@@ -63,7 +64,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -186,24 +186,22 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:437.5px;line-height:125%;font-family:Cocon-Regular;-inkscape-font-specification:'Cocon-Regular Medium';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.9000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="text4154"
-       sodipodi:linespacing="125%"><textPath
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:437.5px;line-height:0%;font-family:Cocon-Regular;-inkscape-font-specification:'Cocon-Regular Medium';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="text4154"><textPath
          xlink:href="#path4180"
          id="textPath3360"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:437.5px;font-family:Cocon-Regular;-inkscape-font-specification:'Cocon-Regular Medium';fill:#ffffff;stroke:#000000;stroke-width:4.9000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">кровь и питон</textPath></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:437.5px;font-family:Cocon-Regular;-inkscape-font-specification:'Cocon-Regular Medium';fill:#ffffff;stroke:#000000;stroke-width:4.9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">кровь и питон</textPath></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.49024963px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-547.58533"
        y="-928.80762"
        id="text4146"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.52546016,-0.8508182,0.8508182,0.52546016,0,0)"><tspan
+       transform="rotate(-58.300774)"><tspan
          sodipodi:role="line"
          id="tspan4148"
          x="-547.58533"
          y="-928.80762"
-         style="font-size:156.2364502px;fill:#ffffff">@orsinium</tspan></text>
+         style="font-size:156.236px;line-height:1.25;fill:#ffffff">@orsinium</tspan></text>
   </g>
 </svg>
