@@ -1,5 +1,11 @@
 # stickers.orsinium.dev
 
+Hi, I'm Gram and I like making stickers about IT.
+
+Check them out: [stickers.orsinium.dev](https://stickers.orsinium.dev/)
+
+Most of them I drew myself using Inkscape and then ordered from Sticker Mule. Each design comes in a limited edition, 10 or 50 stickers in total, depending on if I use a deal or order a sample. So, if you have one of these stickers, there are at most 49 people in the whole world who have the same one as you.
+
 ## Copyrights
 
 * "TypeScript" uses jQuery logo. The logo is a copyright of the jQuery Foundation. [LICENSE](https://brand.jquery.org/logos/)
@@ -14,7 +20,7 @@
 * "The Holy Hand Grenade of Antioch" is an image I found online and can't find again now to give a proper attribution.
 * Python logos are copyrights of Python Software Foundation.
 
-All other work is produced by me.
+Everything else is produced by me. It is licensed under CC BY-SA 4.0. However, primitive figures cannot be copyrighted, so you can legaly freely use the basic shapes from sticker as you wish. On practice, I don't care at all about what you do with my work but I'd appreciate a link to this repo or another form of attribution.
 
 ## Fonts
 
