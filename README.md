@@ -11,7 +11,10 @@
 * "Python-powered" is pulled from the python.org copy from Internet Archive. Copyright: Just van Rossum. [LICENSE](https://web.archive.org/web/20000815233608/http://starship.python.net/~just/pythonpowered/)
 * "Duck typing" is based on a random SVG icon of a snake I found online. I can't find it again now to give a proper attribution.
 * "Silly walk" siluette is traced from [this Wikimedia Commons poster](https://commons.wikimedia.org/wiki/File:Silly_Walk_Gait.png). If the attribution is correct, the author is Jazeen Hollings.
+* "The Holy Hand Grenade of Antioch" is an image I found online and can't find again now to give a proper attribution.
 * Python logos are copyrights of Python Software Foundation.
+
+All other work is produced by me.
 
 ## Fonts
 

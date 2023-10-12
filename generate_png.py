@@ -1,5 +1,4 @@
 import subprocess
-from shutil import copytree
 from pathlib import Path
 
 public_dir = Path('public')
@@ -9,11 +8,6 @@ assert svg_dir.is_dir()
 png_dir = public_dir / 'pngs'
 png_dir.mkdir(exist_ok=True)
 
-copytree(
-    svg_dir,
-    public_dir / 'svgs',
-    dirs_exist_ok=True,
-)
 for svg_path in svg_dir.iterdir():
     png_path = png_dir / f'{svg_path.stem}.png'
     cmd = [

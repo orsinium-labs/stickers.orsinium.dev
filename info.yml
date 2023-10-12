@@ -32,7 +32,7 @@
   slug: ship-it
   round: true
   desc: >
-    When release is imminent.
+    When the release is imminent.
 
 - name: TypeScript
   date: "2023-09-03"
